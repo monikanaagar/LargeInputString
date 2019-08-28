@@ -1,0 +1,352 @@
+/* DATA DESCRIPTION:
+Citation:	Pflaumann, Uwe; Sarnthein, Michael; Chapman, Mark R; de Abreu, Lucia; Funnell, Brian M; Hüls, Matthias; Kiefer, Thorsten; Maslin, Mark A; Prahl, Frederick G; Swallow, John; van Kreveld, Shirley A; Vautravers, Maryline J; Vogelsang, Elke; Weinelt, Mara (2003): Sea surface temperatures of the last glacial maximum, GLAMAP. PANGAEA, https://doi.org/10.1594/PANGAEA.55158, 
+	In supplement to: Pflaumann, Uwe; Sarnthein, Michael; Chapman, Mark R; de Abreu, Lucia; Funnell, Brian M; Hüls, Matthias; Kiefer, Thorsten; Maslin, Mark A; Schulz, Hartmut; Swallow, John; van Kreveld, Shirley A; Vautravers, Maryline J; Vogelsang, Elke; Weinelt, Mara (2003): Glacial North Atlantic: Sea-surface conditions reconstructed by GLAMAP 2000. Paleoceanography, 18(3), 1065, https://doi.org/10.1029/2002PA000774
+Keyword(s):	Barcelona Coast; Cork Harbour; Danube Delta; Danube Delta Coast; Guadiana Estuary; Gulf of Riga; Himmerfjarden; Izmit Bay; Limfjorden; Oder Estuary; Pertuis Charentais; Scheldt Delta Estuary; Taranto Mare Piccolo; Thau Lagoon; Thermaikos Gulf
+Project(s):	Glacial Atlantic Ocean Mapping (GLAMAP2000)
+Coverage:	MEDIAN LATITUDE: 38.927810 * MEDIAN LONGITUDE: -18.498692 * SOUTH-BOUND LATITUDE: -38.680000 * WEST-BOUND LONGITUDE: -80.230000 * NORTH-BOUND LATITUDE: 84.029167 * EAST-BOUND LONGITUDE: 40.908333
+	DATE/TIME START: 1959-11-08T00:00:00 * DATE/TIME END: 1997-09-03T00:54:00
+	MINIMUM DEPTH, sediment/rock: 0.10 m * MAXIMUM DEPTH, sediment/rock: 6.40 m
+Event(s):	A180-73 * LATITUDE: 0.166667 * LONGITUDE: -23.000000 * ELEVATION: -3749.0 m * Recovery: 4.9 m * CAMPAIGN: A150/180 * DEVICE: Piston corer (PC)
+	BOFS14K (BOFS11896#1) * LATITUDE: 58.628800 * LONGITUDE: -19.434900 * DATE/TIME: 1989-08-03T00:00:00 * ELEVATION: -1756.0 m * LOCATION: Northeast Atlantic * CAMPAIGN: D184 * BASIS: Discovery (1962) (URI: https://en.wikipedia.org/wiki/RRS_Discovery_(1962)) * DEVICE: Kasten corer (KAL) * COMMENT: BOFS-ID 5865
+	BOFS17K (BOFS11905#1) * LATITUDE: 58.001000 * LONGITUDE: -16.501400 * DATE/TIME: 1989-08-10T00:00:00 * ELEVATION: -1150.0 m * LOCATION: Northeast Atlantic * CAMPAIGN: D184 * BASIS: Discovery (1962) (URI: https://en.wikipedia.org/wiki/RRS_Discovery_(1962)) * DEVICE: Kasten corer (KAL) * COMMENT: BOFS-ID 6295
+	BOFS5K (BOFS11882#4) * LATITUDE: 50.687600 * LONGITUDE: -21.863500 * DATE/TIME: 1989-07-26T00:00:00 * ELEVATION: -3547.0 m * LOCATION: Northeast Atlantic * CAMPAIGN: D184 * BASIS: Discovery (1962) (URI: https://en.wikipedia.org/wiki/RRS_Discovery_(1962)) * DEVICE: Kasten corer (KAL) * COMMENT: BOFS-ID 5332
+	BOFS8K (BOFS11886#2) * LATITUDE: 52.503300 * LONGITUDE: -22.062300 * DATE/TIME: 1989-07-30T00:00:00 * ELEVATION: -4045.0 m * LOCATION: Northeast Atlantic * CAMPAIGN: D184 * BASIS: Discovery (1962) (URI: https://en.wikipedia.org/wiki/RRS_Discovery_(1962)) * DEVICE: Kasten corer (KAL) * COMMENT: BOFS-ID 5564
+	CH82-24 * LATITUDE: 43.470000 * LONGITUDE: -30.660000 * ELEVATION START: -3070.0 m * ELEVATION END: 0.0 m * CAMPAIGN: CH8X * BASIS: Jean Charcot * DEVICE: Piston corer (PC)
+	GIK12309-2 * LATITUDE: 26.838330 * LONGITUDE: -15.110000 * DATE/TIME: 1971-10-31T00:00:00 * ELEVATION: -2820.0 m * Recovery: 3.5 m * LOCATION: East Atlantic * CAMPAIGN: M25 (URI: hdl:10013/epic.28097.d001) * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Kasten corer (KAL) * COMMENT: core was frozen
+	GIK12310-4 * LATITUDE: 23.498333 * LONGITUDE: -18.716667 * DATE/TIME: 1971-11-02T00:00:00 * ELEVATION: -3080.0 m * Recovery: 5.57 m * LOCATION: East Atlantic * CAMPAIGN: M25 (URI: hdl:10013/epic.28097.d001) * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Kasten corer (KAL)
+	GIK12328-5 * LATITUDE: 21.145000 * LONGITUDE: -18.573333 * DATE/TIME: 1971-11-08T00:00:00 * ELEVATION: -2778.0 m * Recovery: 6.19 m * LOCATION: East Atlantic * CAMPAIGN: M25 (URI: hdl:10013/epic.28097.d001) * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Kasten corer (KAL) * COMMENT: offset to GIK12328-4 = 22 cm
+	GIK12329-6 * LATITUDE: 19.371700 * LONGITUDE: -18.930000 * DATE/TIME: 1971-11-09T00:00:00 * ELEVATION: -3320.0 m * Recovery: 8.45 m * LOCATION: East Atlantic * CAMPAIGN: M25 (URI: hdl:10013/epic.28097.d001) * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Sphincter corer (SPC) * COMMENT: offset to GIK12329-4 = 9 cm
+	GIK12337-5 * LATITUDE: 15.953333 * LONGITUDE: -18.133333 * DATE/TIME: 1971-11-14T00:00:00 * ELEVATION: -3082.0 m * Recovery: 1.43 m * LOCATION: East Atlantic * CAMPAIGN: M25 (URI: hdl:10013/epic.28097.d001) * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Kasten corer (KAL) * COMMENT: offset to GIK12337-4 = 6 cm
+	GIK12345-5 * LATITUDE: 15.480000 * LONGITUDE: -17.360000 * DATE/TIME: 1971-11-17T00:00:00 * ELEVATION: -945.0 m * Recovery: 5.5 m * LOCATION: East Atlantic * CAMPAIGN: M25 (URI: hdl:10013/epic.28097.d001) * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Kasten corer (KAL)
+	GIK12347-2 * LATITUDE: 15.825000 * LONGITUDE: -17.861667 * DATE/TIME: 1971-11-17T00:00:00 * ELEVATION: -2576.0 m * Recovery: 6 m * LOCATION: East Atlantic * CAMPAIGN: M25 (URI: hdl:10013/epic.28097.d001) * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Kasten corer (KAL) * COMMENT: offset to GIK12347-1 = 30 cm
+	GIK12379-1 * LATITUDE: 23.135000 * LONGITUDE: -17.745000 * DATE/TIME: 1971-11-30T00:00:00 * ELEVATION: -2066.0 m * Recovery: 7.5 m * LOCATION: East Atlantic * CAMPAIGN: M25 (URI: hdl:10013/epic.28097.d001) * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Kasten corer (KAL)
+	GIK12392-1 (M12392-1) * LATITUDE: 25.171667 * LONGITUDE: -16.845000 * DATE/TIME: 1971-12-03T00:00:00 * ELEVATION: -2575.0 m * Recovery: 9.5 m * LOCATION: East Atlantic * CAMPAIGN: M25 (URI: hdl:10013/epic.28097.d001) * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Kasten corer (KAL)
+	GIK13289-3 * LATITUDE: 18.073167 * LONGITUDE: -18.009167 * DATE/TIME: 1975-08-06T00:00:00 * ELEVATION: -2490.0 m * Recovery: 9.41 m * LOCATION: Atlantic Ocean * CAMPAIGN: VA-10/3 * BASIS: Valdivia (1961) (URI: https://de.wikipedia.org/wiki/Valdivia_(Schiff,_1961)) * DEVICE: Kasten corer (KAL)
+	GIK13291-1 * LATITUDE: 18.053000 * LONGITUDE: -18.067300 * DATE/TIME: 1975-08-06T00:00:00 * ELEVATION: -2696.0 m * Recovery: 5.92 m * LOCATION: Atlantic Ocean * CAMPAIGN: VA-10/3 * BASIS: Valdivia (1961) (URI: https://de.wikipedia.org/wiki/Valdivia_(Schiff,_1961)) * DEVICE: Kasten corer (KAL)
+	GIK13519-1 * LATITUDE: 5.670000 * LONGITUDE: -19.851667 * DATE/TIME: 1979-03-01T00:00:00 * ELEVATION: -2862.0 m * Recovery: 10.7 m * LOCATION: Atlantic Ocean * CAMPAIGN: M51 (FGGE-Equator ´79 - First GARP Global Experiment) * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Gravity corer (Kiel type) (SL)
+	GIK13521-1 * LATITUDE: 3.020000 * LONGITUDE: -22.031660 * DATE/TIME: 1975-01-01T00:00:00 * ELEVATION START: -4504.0 m * ELEVATION END: 0.0 m * Recovery: 9.3 m * LOCATION: Atlantic Ocean * CAMPAIGN: M39 (URI: hdl:10013/epic.28111.d001) * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Gravity corer (Kiel type) (SL)
+	GIK15612-2 * LATITUDE: 44.360000 * LONGITUDE: -26.543333 * DATE/TIME: 1981-08-20T00:00:00 * ELEVATION: -3050.0 m * Penetration: 13 m * Recovery: 4.93 m * LOCATION: North Atlantic * CAMPAIGN: M57 (URI: http://oceanrep.geomar.de/id/eprint/26471) * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Piston corer (Kiel type) (KOL)
+	GIK15627-3 * LATITUDE: 29.166667 * LONGITUDE: -12.086667 * DATE/TIME: 1980-03-07T00:00:00 * ELEVATION: -1024.0 m * Recovery: 9 m * LOCATION: Northeast Atlantic * CAMPAIGN: M53 * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Piston corer (Kiel type) (KOL)
+	GIK15637-1 * LATITUDE: 27.005000 * LONGITUDE: -18.986667 * DATE/TIME: 1980-03-10T00:00:00 * ELEVATION: -3849.0 m * Recovery: 8.68 m * LOCATION: Northeast Atlantic * CAMPAIGN: M53 * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Piston corer (Kiel type) (KOL)
+	GIK15669-1 (M53_169) * LATITUDE: 34.891000 * LONGITUDE: -7.815000 * DATE/TIME: 1980-03-21T00:00:00 * ELEVATION: -2022.0 m * LOCATION: off West Africa * CAMPAIGN: M53 * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: 4.87
+	GIK16017-2 * LATITUDE: 21.245000 * LONGITUDE: -17.803000 * DATE/TIME: 1982-01-22T00:00:00 * ELEVATION START: -812.0 m * ELEVATION END: 0.0 m * Recovery: 4.4 m * LOCATION: Atlantic Ocean * CAMPAIGN: M60 (SUBTROPEX 82) (URI: hdl:10013/epic.45025.d001) * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Gravity corer (Kiel type) (SL)
+	GIK16396-1 * LATITUDE: 61.872167 * LONGITUDE: -11.242333 * DATE/TIME: 1989-04-20T00:00:00 * ELEVATION: -1145.0 m * Recovery: 5.53 m * LOCATION: off Iceland * CAMPAIGN: POS158/2 (PO158/B) (URI: https://doi.org/10.2312/reports-gpi.1990.38) * BASIS: Poseidon (URI: http://www.geomar.de/zentrum/einrichtungen/wasser/f-s-poseidon/) * DEVICE: Gravity corer (Kiel type) (SL)
+	GIK16415-2 * LATITUDE: 9.566667 * LONGITUDE: -19.095000 * DATE/TIME: 1983-07-25T00:00:00 * ELEVATION: -3845.0 m * Recovery: 13.35 m * LOCATION: Atlantic Ocean * CAMPAIGN: M65 (GEOTROPEX 83, NOAMP I) (URI: https://doi.org/10.2312/reports-gpi.1983.2) * BASIS: Meteor (1964) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1964)) * DEVICE: Gravity corer (Kiel type) (SL)
+	GIK16457-2 * LATITUDE: 5.385000 * LONGITUDE: -21.751667 * DATE/TIME: 1985-10-22T00:00:00 * ELEVATION: -3303.0 m * Penetration: 13.5 m * LOCATION: Equatorial Atlantic * CAMPAIGN: ANT-IV/1c (PS08) (URI: https://doi.org/10.2312/BzP_0032_1986) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Gravity corer (Kiel type) (SL)
+	GIK16458-1 * LATITUDE: 5.335000 * LONGITUDE: -22.053333 * DATE/TIME: 1985-10-22T00:00:00 * ELEVATION: -3518.0 m * Penetration: 17.5 m * LOCATION: Equatorial Atlantic * CAMPAIGN: ANT-IV/1c (PS08) (URI: https://doi.org/10.2312/BzP_0032_1986) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: offset to GIK16458-2 = 2 cm
+	GIK16458-2 * LATITUDE: 5.335000 * LONGITUDE: -22.055000 * DATE/TIME: 1985-10-22T00:00:00 * ELEVATION: -3518.0 m * Penetration: 0.37 m * LOCATION: Equatorial Atlantic * CAMPAIGN: ANT-IV/1c (PS08) (URI: https://doi.org/10.2312/BzP_0032_1986) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Giant box corer (GKG) (URI: http://en.wikipedia.org/wiki/Box_corer)
+	GIK16772-2 * LATITUDE: -1.350000 * LONGITUDE: -11.961667 * DATE/TIME: 1988-01-21T00:00:00 * ELEVATION: -3912.0 m * Recovery: 15.05 m * LOCATION: eastern Romanche Fracture Zone * CAMPAIGN: M6/5 (URI: https://doi.org/10.2312/reports-gpi.1988.22) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Piston corer (Kiel type) (KOL) * COMMENT: offset to GIK16772-1 = 27.5 cm
+	GIK16776-1 * LATITUDE: 3.735000 * LONGITUDE: -11.398333 * DATE/TIME: 1988-01-25T00:00:00 * ELEVATION: -4242.0 m * Recovery: 14.88 m * LOCATION: off Liberia * CAMPAIGN: M6/5 (URI: https://doi.org/10.2312/reports-gpi.1988.22) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Piston corer (Kiel type) (KOL)
+	GIK16867-2 * LATITUDE: -2.201667 * LONGITUDE: 5.101667 * DATE/TIME: 1988-02-10T00:00:00 * ELEVATION: -3891.0 m * Recovery: 12.8 m * LOCATION: off Gabun * CAMPAIGN: M6/5 (URI: https://doi.org/10.2312/reports-gpi.1988.22) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: offset to GIK16867-1 = 10 cm
+	GIK17045-3 * LATITUDE: 52.425000 * LONGITUDE: -16.665000 * DATE/TIME: 1989-10-07T00:00:00 * ELEVATION: -3663.0 m * Penetration: 11 m * LOCATION: Biscaya * CAMPAIGN: M11/1 (URI: https://doi.org/10.2312/reports-gpi.1989.36) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	GIK17049-6 * LATITUDE: 55.260000 * LONGITUDE: -26.725000 * DATE/TIME: 1989-10-11T00:00:00 * ELEVATION: -3331.0 m * Penetration: 17 m * LOCATION: Biscaya * CAMPAIGN: M11/1 (URI: https://doi.org/10.2312/reports-gpi.1989.36) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Piston corer (Kiel type) (KOL)
+	GIK17050-1 * LATITUDE: 55.470000 * LONGITUDE: -27.888333 * DATE/TIME: 1989-10-12T00:00:00 * ELEVATION: -2795.0 m * Penetration: 11.5 m * LOCATION: Biscaya * CAMPAIGN: M11/1 (URI: https://doi.org/10.2312/reports-gpi.1989.36) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	GIK17051-3 * LATITUDE: 56.163333 * LONGITUDE: -31.990000 * DATE/TIME: 1989-10-13T00:00:00 * ELEVATION: -2295.0 m * Penetration: 12 m * Recovery: 0.43 m * LOCATION: Biscaya * CAMPAIGN: M11/1 (URI: https://doi.org/10.2312/reports-gpi.1989.36) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	GIK17055-1 * LATITUDE: 48.215000 * LONGITUDE: -27.056667 * DATE/TIME: 1989-10-17T00:00:00 * ELEVATION: -2558.0 m * Penetration: 3.2 m * LOCATION: Biscaya * CAMPAIGN: M11/1 (URI: https://doi.org/10.2312/reports-gpi.1989.36) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	GIK17724-2 * LATITUDE: 76.000000 * LONGITUDE: 8.333333 * DATE/TIME: 1990-08-07T00:00:00 * ELEVATION: -2354.0 m * Penetration: 5.8 m * Recovery: 5.32 m * LOCATION: Norwegian Sea * CAMPAIGN: M13/2 (URI: https://doi.org/10.2312/cr_m13) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Kasten corer (KAL)
+	GIK17725-1 * LATITUDE: 77.460000 * LONGITUDE: 4.580000 * DATE/TIME: 1990-08-08T00:00:00 * ELEVATION: -2577.0 m * Recovery: 0.33 m * LOCATION: Norwegian Sea * CAMPAIGN: M13/2 (URI: https://doi.org/10.2312/cr_m13) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Giant box corer (GKG) (URI: http://en.wikipedia.org/wiki/Box_corer)
+	GIK17730-4 * LATITUDE: 72.111667 * LONGITUDE: 7.388333 * DATE/TIME: 1990-08-11T00:00:00 * ELEVATION: -2749.0 m * Penetration: 8.15 m * Recovery: 7.31 m * LOCATION: Norwegian Sea * CAMPAIGN: M13/2 (URI: https://doi.org/10.2312/cr_m13) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Kasten corer (KAL)
+	GIK23056-2 * LATITUDE: 68.501667 * LONGITUDE: 3.838330 * DATE/TIME: 1986-07-05T00:00:00 * ELEVATION: -2665.0 m * LOCATION: Norwegian Sea * CAMPAIGN: M2/2 (URI: https://doi.org/10.2312/cr_m2) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Giant box corer (GKG) (URI: http://en.wikipedia.org/wiki/Box_corer)
+	GIK23065-2 * LATITUDE: 68.495000 * LONGITUDE: 0.831660 * DATE/TIME: 1986-07-09T00:00:00 * ELEVATION: -2804.0 m * LOCATION: Norwegian Sea * CAMPAIGN: M2/2 (URI: https://doi.org/10.2312/cr_m2) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Giant box corer (GKG) (URI: http://en.wikipedia.org/wiki/Box_corer)
+	GIK23071-3 * LATITUDE: 67.085000 * LONGITUDE: 2.908330 * DATE/TIME: 1986-07-12T00:00:00 * ELEVATION: -1308.0 m * Penetration: 8.39 m * Recovery: 7.5 m * LOCATION: Norwegian Sea * CAMPAIGN: M2/2 (URI: https://doi.org/10.2312/cr_m2) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Kasten corer (KAL)
+	GIK23074-1 * LATITUDE: 66.666667 * LONGITUDE: 4.905000 * DATE/TIME: 1986-07-13T00:00:00 * ELEVATION: -1157.0 m * Penetration: 8 m * LOCATION: Norwegian Sea * CAMPAIGN: M2/2 (URI: https://doi.org/10.2312/cr_m2) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Kasten corer (KAL)
+	GIK23262-2 * LATITUDE: 72.225167 * LONGITUDE: 14.427333 * DATE/TIME: 1988-07-22T00:00:00 * ELEVATION: -1130.0 m * Recovery: 0.46 m * LOCATION: Arctic Ocean * CAMPAIGN: M7/2 (URI: https://doi.org/10.2312/reports-sfb313.1988.10) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Giant box corer (GKG) (URI: http://en.wikipedia.org/wiki/Box_corer)
+	GIK23294-4 * LATITUDE: 72.379667 * LONGITUDE: -10.592333 * DATE/TIME: 1988-08-05T00:00:00 * ELEVATION: -2215.0 m * Penetration: 9.5 m * Recovery: 8.33 m * LOCATION: Arctic Ocean * CAMPAIGN: M7/3 (URI: https://doi.org/10.2312/reports-sfb313.1988.10) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Kasten corer (KAL)
+	GIK23351-1 * LATITUDE: 70.362167 * LONGITUDE: -18.205333 * DATE/TIME: 1988-09-16T00:00:00 * ELEVATION: -1672.0 m * Penetration: 9.05 m * Recovery: 6.19 m * LOCATION: Arctic Ocean * CAMPAIGN: M7/5 (URI: https://doi.org/10.2312/reports-sfb313.1988.10) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Kasten corer (KAL)
+	GIK23354-6 * LATITUDE: 70.331500 * LONGITUDE: -10.628833 * DATE/TIME: 1988-09-18T00:00:00 * ELEVATION: -1747.0 m * Penetration: 9.1 m * Recovery: 7.17 m * LOCATION: Arctic Ocean * CAMPAIGN: M7/5 (URI: https://doi.org/10.2312/reports-sfb313.1988.10) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Kasten corer (KAL)
+	GIK23419-8 * LATITUDE: 54.961667 * LONGITUDE: -19.755000 * DATE/TIME: 1991-08-28T00:00:00 * ELEVATION: -1487.0 m * Penetration: 94.55 m * Recovery: 7.47 m * LOCATION: Norwegian Sea * CAMPAIGN: M17/2 (URI: https://doi.org/10.2312/cr_m17) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	GIK23519-5 * LATITUDE: 64.797333 * LONGITUDE: -29.595833 * DATE/TIME: 1995-08-18T00:00:00 * ELEVATION: -1893.0 m * Recovery: 6.55 m * LOCATION: Greenland Sea * CAMPAIGN: POS210/2 (URI: https://doi.org/10.2312/reports-sfb313.1996.62) * BASIS: Poseidon (URI: http://www.geomar.de/zentrum/einrichtungen/wasser/f-s-poseidon/) * DEVICE: Gravity corer (Kiel type) (SL)
+	HU87-033-008 * LATITUDE: 62.648500 * LONGITUDE: -53.884500 * ELEVATION: -2424.0 m * DEVICE: Piston corer (PC) * COMMENT: Hillaire-Marcel, C. et al, Can. Journ. Earth Science 31,1994, pp63-89
+	HU90-013-013 * LATITUDE: 58.209800 * LONGITUDE: -48.373300 * ELEVATION: -3380.0 m * LOCATION: Northwest Atlantic * CAMPAIGN: HUD90/13 * BASIS: Hudson (URI: https://en.wikipedia.org/wiki/CCGS_Hudson) * DEVICE: Piston corer (PC) * COMMENT: De Vernal, A. et al, Geology 20,1992,pp527-530
+	HU91-045-090 * LATITUDE: 50.389800 * LONGITUDE: -45.260000 * ELEVATION: -3448.0 m * DEVICE: Piston corer (PC) * COMMENT: De Vernal, A. et al, Geology 20,1992,pp527-530
+	KF09 * LATITUDE: 37.111330 * LONGITUDE: -32.286800 * DATE/TIME: 1993-08-01T00:00:00 * ELEVATION: -2655.0 m * CAMPAIGN: GEOFAR * BASIS: Le Noroit * DEVICE: Piston corer (PC)
+	KF13 * LATITUDE: 37.578300 * LONGITUDE: -31.842170 * DATE/TIME: 1993-08-01T00:00:00 * ELEVATION: -2690.0 m * CAMPAIGN: GEOFAR * BASIS: Le Noroit * DEVICE: Piston corer (PC)
+	KF16 * LATITUDE: 37.999000 * LONGITUDE: -31.128330 * DATE/TIME: 1993-08-01T00:00:00 * ELEVATION: -3050.0 m * CAMPAIGN: GEOFAR * BASIS: Le Noroit * DEVICE: Piston corer (PC)
+	KN708-1 * LATITUDE: 50.000000 * LONGITUDE: -23.750000 * ELEVATION: -4053.0 m * LOCATION: North Atlantic * DEVICE: Gravity corer (GC)
+	M35003-4 * LATITUDE: 12.090000 * LONGITUDE: -61.243333 * DATE/TIME: 1996-04-19T00:00:00 * ELEVATION: -1299.0 m * Recovery: 9.63 m * CAMPAIGN: M35/1 (URI: https://doi.org/10.2312/cr_m35) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	M35027-1 * LATITUDE: 17.648333 * LONGITUDE: -67.166667 * DATE/TIME: 1996-05-04T17:33:00 * ELEVATION: -1814.0 m * Recovery: 11.06 m * CAMPAIGN: M35/1 (URI: https://doi.org/10.2312/cr_m35) * BASIS: Meteor (1986) (URI: https://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	NA87-22 * LATITUDE: 55.500000 * LONGITUDE: -14.583333 * ELEVATION: -2161.0 m * LOCATION: North Atlantic * DEVICE: Gravity corer (GC)
+	OD-041-04 (41) * LATITUDE: 84.029167 * LONGITUDE: 11.238333 * DATE/TIME: 1996-09-17T14:25:00 * ELEVATION: -3344.0 m * LOCATION: Arctic Ocean * CAMPAIGN: ODEN-96 * BASIS: Oden * DEVICE: MultiCorer (MUC)
+	POS175/2_1171 (GIK1171-1) * LATITUDE: 67.959333 * LONGITUDE: -18.611667 * DATE/TIME: 1990-01-01T00:00:00 * ELEVATION: -935.0 m * Recovery: 2.66 m * CAMPAIGN: POS175/2 (PO175B) (URI: https://doi.org/10.3289/GEOMAR_REP_11_1992) * BASIS: Poseidon (URI: http://www.geomar.de/zentrum/einrichtungen/wasser/f-s-poseidon/) * DEVICE: Kasten corer (KAL)
+	PS1230-1 (GIK23230-1 PS05/416) (URI: http://store.pangaea.de/Images/Cores/PS-stationcard/PS1230-stationcard.pdf) * LATITUDE: 78.855300 * LONGITUDE: -4.781200 * DATE/TIME: 1984-08-16T00:00:00 * ELEVATION: -1249.0 m * Penetration: 0.53 m * Recovery: 0.49 m * LOCATION: Fram Strait (URI: http://en.wikipedia.org/wiki/Fram_Strait) * CAMPAIGN: ARK-II/4 (PS05) (URI: https://doi.org/10.2312/BzP_0020_1984) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Giant box corer (GKG) (URI: http://en.wikipedia.org/wiki/Box_corer)
+	PS1533-3 (GIK21533-3 PS11/412) (URI: http://store.pangaea.de/Images/Cores/PS-stationcard/PS1533-stationcard.pdf) * LATITUDE: 82.031660 * LONGITUDE: 15.190830 * DATE/TIME: 1987-08-16T00:00:00 * ELEVATION: -2026.0 m * Penetration: 7.5 m * Recovery: 4.87 m * LOCATION: Antarctic Ocean * CAMPAIGN: ARK-IV/3 (PS11) (URI: https://doi.org/10.2312/BzP_0043_1988) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: 5 core sections: 0-1, 1-2, 2-3, 3-4, 4-4.87 m
+	PS1730-2 (GIK21730-2 PS13/224) (URI: http://store.pangaea.de/Images/Cores/PS-stationcard/PS1730-stationcard.pdf) * LATITUDE: 70.116500 * LONGITUDE: -17.694300 * DATE/TIME: 1988-08-18T00:00:00 * ELEVATION: -1622.0 m * Penetration: 13 m * Recovery: 7.79 m * LOCATION: Greenland Sea * CAMPAIGN: ARK-V/3b (PS13 GRÖKORT) (URI: hdl:10013/epic.28350) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: 5 core sections: 2.82-3.82, 3.82-4.82, 4.82-5.86, 5.86-6.86, 6.86-7.79 m
+	PS1919-2 (PS17/242) (URI: http://store.pangaea.de/Images/Cores/PS-stationcard/PS1919-stationcard.pdf) * LATITUDE: 74.996700 * LONGITUDE: -11.826700 * DATE/TIME: 1990-09-01T00:00:00 * ELEVATION: -1955.0 m * Penetration: 5 m * Recovery: 3.73 m * LOCATION: Greenland Slope * CAMPAIGN: ARK-VII/3b (PS17) (URI: https://doi.org/10.2312/BzP_0189_1996) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: 4 sections: 0-74, 74-174, 174-274, 274-373
+	PS1922-1 (PS17/245) (URI: http://store.pangaea.de/Images/Cores/PS-stationcard/PS1922-stationcard.pdf) * LATITUDE: 75.000300 * LONGITUDE: -8.771000 * DATE/TIME: 1990-09-02T00:00:00 * ELEVATION: -3350.0 m * Penetration: 5.5 m * Recovery: 4.93 m * LOCATION: Greenland Slope * CAMPAIGN: ARK-VII/3b (PS17) (URI: https://doi.org/10.2312/BzP_0189_1996) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: 6 sections: 0-9, 9-97, 97-196, 196-295, 295-394, 394-493
+	PS1927-2 (PS17/251) (URI: http://store.pangaea.de/Images/Cores/PS-stationcard/PS1927-stationcard.pdf) * LATITUDE: 71.496700 * LONGITUDE: -17.148300 * DATE/TIME: 1990-09-03T00:00:00 * ELEVATION: -1706.0 m * Penetration: 7 m * Recovery: 4.91 m * LOCATION: Greenland Slope * CAMPAIGN: ARK-VII/3b (PS17) (URI: https://doi.org/10.2312/BzP_0189_1996) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: 3 core sections: 2.01-3.01, 3.01-4.01, 4.01-4.91 m; 15m barrel, bended at 7m
+	PS1951-1 (PS17/290) (URI: http://store.pangaea.de/Images/Cores/PS-stationcard/PS1951-stationcard.pdf) * LATITUDE: 68.841700 * LONGITUDE: -20.825000 * DATE/TIME: 1990-09-27T00:00:00 * ELEVATION: -1459.0 m * Penetration: 10 m * Recovery: 7.89 m * LOCATION: Greenland Slope * CAMPAIGN: ARK-VII/3b (PS17) (URI: https://doi.org/10.2312/BzP_0189_1996) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: 8 core sections: 0-0.94, 0.94-1.94, 1.94-2.94, 2.94-3.96, 3.96-4.96, 4.96-4.96, 4.96-6.96, 6.96-7.89 m
+	PS2129-1 (PS19/100) (URI: http://store.pangaea.de/Images/Cores/PS-stationcard/PS2129-stationcard.pdf) * LATITUDE: 81.368500 * LONGITUDE: 17.389160 * DATE/TIME: 1991-07-11T10:45:00 * ELEVATION: -861.0 m * Penetration: 5.5 m * Recovery: 4.11 m * LOCATION: Svalbard * CAMPAIGN: ARK-VIII/2 (PS19 EPOS II) (URI: https://doi.org/10.2312/BzP_0115_1992) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: 5 core sections: 0-0.11, 0.11-1.11, 1.11-2.11, 2.11-3.11, 3.11-4.11 m; Lot 10m
+	PS2138-1 (PS19/112) (URI: http://store.pangaea.de/Images/Cores/PS-stationcard/PS2138-stationcard.pdf) * LATITUDE: 81.537667 * LONGITUDE: 30.876167 * DATE/TIME: 1991-07-18T21:03:00 * ELEVATION: -862.0 m * Penetration: 10 m * Recovery: 6.34 m * LOCATION: Svalbard * CAMPAIGN: ARK-VIII/2 (PS19 EPOS II) (URI: https://doi.org/10.2312/BzP_0115_1992) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: Lot 10m
+	PS2446-4 (PS27/020) (URI: http://store.pangaea.de/Images/Cores/PS-stationcard/PS2446-stationcard.pdf) * LATITUDE: 82.396667 * LONGITUDE: 40.908333 * DATE/TIME: 1993-08-19T00:00:00 * ELEVATION: -2022.0 m * Penetration: 7.5 m * Recovery: 6.55 m * LOCATION: Barents Sea * CAMPAIGN: ARK-IX/4 (PS27) (URI: https://doi.org/10.2312/BzP_0149_1994) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Kasten corer (KAL)
+	PS2613-6 (PS31/113) (URI: http://store.pangaea.de/Images/Cores/PS-stationcard/PS2613-stationcard.pdf) * LATITUDE: 74.176660 * LONGITUDE: -0.480000 * DATE/TIME: 1994-08-19T17:33:00 * ELEVATION: -3266.0 m * Penetration: 10 m * Recovery: 5.75 m * LOCATION: Norwegian-Greenland Sea * CAMPAIGN: ARK-X/2 (PS31) (URI: https://doi.org/10.2312/BzP_0174_1995) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: 6 core sections: 0-0.84, 0.84-1.84, 1.84-2.84, 2.84-3.84, 3.84-4.84, 4.84-5.75 m
+	PS2644-5 (PS31/160-5) (URI: http://store.pangaea.de/Images/Cores/PS-stationcard/PS2644-stationcard.pdf) * LATITUDE: 67.866660 * LONGITUDE: -21.765000 * DATE/TIME: 1994-09-19T07:20:00 * ELEVATION: -777.0 m * Penetration: 10 m * Recovery: 9.18 m * LOCATION: Denmark Strait * CAMPAIGN: ARK-X/2 (PS31) (URI: https://doi.org/10.2312/BzP_0174_1995) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: 9 core sections: 0.18-1.18, 1.18-2.18, 2.18-3.18, 3.18-4.18, 4.18-5.18, 5.18-6.18, 6.18-7.18, 7.18-8.18, 8.18-9.18 m
+	PS2837-5 (PS44/065) (URI: http://store.pangaea.de/Images/Cores/PS-stationcard/PS2837-stationcard.pdf) * LATITUDE: 81.233333 * LONGITUDE: 2.381667 * DATE/TIME: 1997-07-12T11:22:00 * ELEVATION: -1023.0 m * Recovery: 8.72 m * LOCATION: Yermak Plateau * CAMPAIGN: ARK-XIII/2 (PS44) (URI: https://doi.org/10.2312/BzP_0255_1997) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Kasten corer (KAL)
+	PS2876-1 (PS45/029) (URI: http://store.pangaea.de/Images/Cores/PS-stationcard/PS2876-stationcard.pdf) * LATITUDE: 81.759000 * LONGITUDE: -9.435500 * DATE/TIME: 1997-08-24T05:54:00 * ELEVATION: -1976.0 m * Recovery: 0.44 m * LOCATION: Greenland Sea * CAMPAIGN: ARK-XIII/3 (PS45) (URI: https://doi.org/10.2312/BzP_0262_1998) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Giant box corer (GKG) (URI: http://en.wikipedia.org/wiki/Box_corer)
+	PS2887-1 (PS45/058) (URI: http://store.pangaea.de/Images/Cores/PS-stationcard/PS2887-stationcard.pdf) * LATITUDE: 79.600000 * LONGITUDE: -4.607667 * DATE/TIME: 1997-09-03T00:54:00 * ELEVATION: -1411.0 m * Recovery: 5.14 m * LOCATION: Greenland Sea * CAMPAIGN: ARK-XIII/3 (PS45) (URI: https://doi.org/10.2312/BzP_0262_1998) * BASIS: Polarstern (URI: http://www.awi.de/en/expedition/ships/polarstern.html) * DEVICE: Kasten corer (KAL)
+	RC11-86 * LATITUDE: -35.780000 * LONGITUDE: 18.450000 * DATE/TIME: 1967-03-02T00:00:00 * ELEVATION: -2829.0 m * Recovery: 9.55 m * CAMPAIGN: RC11 (RC1112) * BASIS: Robert Conrad * DEVICE: Piston corer (PC)
+	RC12-267 * LATITUDE: -38.680000 * LONGITUDE: -25.780000 * DATE/TIME: 1969-01-15T00:00:00 * ELEVATION: -4144.0 m * Recovery: 4.74 m * CAMPAIGN: RC12 * BASIS: Robert Conrad * DEVICE: Piston corer (PC)
+	RC12-294 * LATITUDE: -37.270000 * LONGITUDE: -10.100000 * DATE/TIME: 1969-02-18T00:00:00 * ELEVATION: -3308.0 m * Recovery: 9.31 m * CAMPAIGN: RC12 * BASIS: Robert Conrad * DEVICE: Piston corer (PC)
+	RC13-153 * LATITUDE: 15.065000 * LONGITUDE: -75.950000 * DATE/TIME: 1970-07-06T00:00:00 * ELEVATION: -3334.0 m * Recovery: 6.65 m * CAMPAIGN: RC13 * BASIS: Robert Conrad * DEVICE: Piston corer (PC)
+	RC13-228 * LATITUDE: -22.330000 * LONGITUDE: 11.198000 * DATE/TIME: 1970-10-08T00:00:00 * ELEVATION: -3204.0 m * Recovery: 11.2 m * CAMPAIGN: RC13 * BASIS: Robert Conrad * DEVICE: Piston corer (PC)
+	RC13-229 * LATITUDE: -25.490000 * LONGITUDE: 11.307000 * DATE/TIME: 1970-10-10T00:00:00 * ELEVATION: -4191.0 m * Recovery: 16.37 m * CAMPAIGN: RC13 * BASIS: Robert Conrad * DEVICE: Piston corer (PC)
+	RC24-16 * LATITUDE: -5.038000 * LONGITUDE: -10.190000 * DATE/TIME: 1983-03-26T00:00:00 * ELEVATION: -3543.0 m * Recovery: 10.66 m * CAMPAIGN: RC24 * BASIS: Robert Conrad * DEVICE: Piston corer (PC)
+	SO82_5-2 * LATITUDE: 59.186167 * LONGITUDE: -30.904833 * DATE/TIME: 1992-10-21T00:00:00 * ELEVATION: -1416.0 m * CAMPAIGN: SO82 (REYKJANES-RÜCKEN) (URI: hdl:10013/epic.40412.d001) * BASIS: Sonne (URI: https://en.wikipedia.org/wiki/RV_Sonne) * DEVICE: Kasten corer (KAL)
+	SU81-18 * LATITUDE: 37.767000 * LONGITUDE: -10.183000 * DATE/TIME: 1981-01-01T00:00:00 * ELEVATION: -3155.0 m * Recovery: 7 m * LOCATION: Atlantic Ocean * CAMPAIGN: CEPAG * BASIS: Le Suroît * DEVICE: Piston corer (PC)
+	SU90-39 * LATITUDE: 52.566667 * LONGITUDE: -21.940000 * DATE/TIME: 1990-01-01T00:00:00 * ELEVATION: -3955.0 m * Recovery: 12.95 m * LOCATION: North Atlantic * CAMPAIGN: PALEOCINAT * BASIS: Le Suroît * DEVICE: Piston corer (PC)
+	SU90-I06 * LATITUDE: 59.521667 * LONGITUDE: -39.445000 * DATE/TIME: 1990-01-01T00:00:00 * ELEVATION: -1315.0 m * Recovery: 0.64 m * LOCATION: North Atlantic * CAMPAIGN: PALEOCINAT * BASIS: Le Suroît * DEVICE: MultiCorer (MUC)
+	SU92-21 * LATITUDE: 36.000000 * LONGITUDE: -23.500000 * ELEVATION START: -4170.0 m * ELEVATION END: 0.0 m * CAMPAIGN: SU92 (PALEOCINAT II) (URI: https://doi.org/10.17600/92001611) * BASIS: Le Suroît * DEVICE: Piston corer (PC) * COMMENT: Position estimated from map
+	V16-20 * LATITUDE: 17.933000 * LONGITUDE: -50.350000 * DATE/TIME: 1959-11-08T00:00:00 * ELEVATION: -4539.0 m * Recovery: 8.71 m * CAMPAIGN: V16 (URI: http://www.ngdc.noaa.gov/mgg/geology/data/vema/vm16/vm16_summary.pdf) * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V16-205 * LATITUDE: 15.400000 * LONGITUDE: -43.400000 * DATE/TIME: 1960-07-18T00:00:00 * ELEVATION: -4043.0 m * Recovery: 12.32 m * CAMPAIGN: V16 (URI: http://www.ngdc.noaa.gov/mgg/geology/data/vema/vm16/vm16_summary.pdf) * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V17-165 * LATITUDE: 32.750000 * LONGITUDE: -41.900000 * DATE/TIME: 1961-07-29T00:00:00 * ELEVATION: -3924.0 m * Recovery: 7.59 m * LOCATION: Atlantic Ocean * CAMPAIGN: V17 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC) * COMMENT: Institute LDEO
+	V18-357 * LATITUDE: 15.033000 * LONGITUDE: -80.230000 * DATE/TIME: 1962-10-30T00:00:00 * ELEVATION: -1818.0 m * Recovery: 3.43 m * CAMPAIGN: V18 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V22-174 * LATITUDE: -10.070000 * LONGITUDE: -12.820000 * DATE/TIME: 1966-05-13T00:00:00 * ELEVATION: -2630.0 m * Recovery: 15.66 m * CAMPAIGN: V22 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V22-197 * LATITUDE: 14.167000 * LONGITUDE: -18.580000 * DATE/TIME: 1966-05-22T00:00:00 * ELEVATION: -3167.0 m * Recovery: 11.85 m * CAMPAIGN: V22 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V23-100 * LATITUDE: 21.300000 * LONGITUDE: -22.680000 * DATE/TIME: 1966-11-09T00:00:00 * ELEVATION: -4579.0 m * Recovery: 9.26 m * CAMPAIGN: V23 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V23-81 * LATITUDE: 54.250000 * LONGITUDE: -16.830000 * DATE/TIME: 1966-10-18T00:00:00 * ELEVATION: -2393.0 m * Recovery: 9.78 m * CAMPAIGN: V23 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V25-56 * LATITUDE: -3.550000 * LONGITUDE: -35.230000 * DATE/TIME: 1968-02-24T00:00:00 * ELEVATION: -3512.0 m * Recovery: 7.35 m * CAMPAIGN: V25 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V25-59 * LATITUDE: 1.367000 * LONGITUDE: -33.480000 * DATE/TIME: 1968-02-26T00:00:00 * ELEVATION: -3824.0 m * Recovery: 8.41 m * CAMPAIGN: V25 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V26-124 * LATITUDE: 16.133000 * LONGITUDE: -74.450000 * DATE/TIME: 1969-03-13T00:00:00 * ELEVATION: -3005.0 m * Recovery: 7.51 m * CAMPAIGN: V26 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V27-60 * LATITUDE: 72.183000 * LONGITUDE: 8.583000 * DATE/TIME: 1969-08-05T00:00:00 * ELEVATION: -2525.0 m * Recovery: 7.41 m * CAMPAIGN: V27 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V27-86 * LATITUDE: 66.600000 * LONGITUDE: 1.117000 * DATE/TIME: 1969-09-05T00:00:00 * ELEVATION: -2900.0 m * Recovery: 6.08 m * CAMPAIGN: V27 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V28-127 * LATITUDE: 11.650000 * LONGITUDE: -80.130000 * DATE/TIME: 1971-01-05T00:00:00 * ELEVATION: -3237.0 m * Recovery: 6.35 m * CAMPAIGN: V28 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V28-14 * LATITUDE: 64.783000 * LONGITUDE: -29.570000 * DATE/TIME: 1970-07-19T00:00:00 * ELEVATION: -1855.0 m * Recovery: 6.11 m * CAMPAIGN: V28 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V28-56 * LATITUDE: 68.033000 * LONGITUDE: -6.117000 * DATE/TIME: 1970-09-13T00:00:00 * ELEVATION: -2941.0 m * Recovery: 8.37 m * CAMPAIGN: V28 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V29-179 * LATITUDE: 44.017000 * LONGITUDE: -24.530000 * DATE/TIME: 1972-07-23T00:00:00 * ELEVATION: -3331.0 m * Recovery: 6.99 m * CAMPAIGN: V29 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V30-40 * LATITUDE: -0.200000 * LONGITUDE: -23.150000 * DATE/TIME: 1973-02-15T00:00:00 * ELEVATION: -3706.0 m * Recovery: 7.55 m * CAMPAIGN: V30 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+	V30-49 * LATITUDE: 18.433000 * LONGITUDE: -21.080000 * DATE/TIME: 1973-03-05T00:00:00 * ELEVATION: -3093.0 m * Recovery: 9.35 m * CAMPAIGN: V30 * BASIS: Vema (URI: http://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) * DEVICE: Piston corer (PC)
+Parameter(s):	Campaign of event (Campaign)
+	Event label (Event)
+	LATITUDE (Latitude) * GEOCODE
+	LONGITUDE (Longitude) * GEOCODE
+	Date/Time of event (Date/Time)
+	Elevation of event [m] (Elevation)
+	DEPTH, sediment/rock [m] (Depth) * GEOCODE
+	Age model [ka] (Age model) * PI: Pflaumann, Uwe (up@gpi.uni-kiel.de)
+	Sea surface temperature, January-March [°C] (SST (1-3)) * PI: Pflaumann, Uwe (up@gpi.uni-kiel.de) * METHOD: Modern analog technique (MAT), SIMMAX28 (URI: https://doi.org/10.1029/95PA01743)
+	Sea surface temperature, July-September [°C] (SST (7-9)) * PI: Pflaumann, Uwe (up@gpi.uni-kiel.de) * METHOD: Modern analog technique (MAT), SIMMAX28 (URI: https://doi.org/10.1029/95PA01743)
+	Similarity index (Similarity) * PI: Pflaumann, Uwe (up@gpi.uni-kiel.de) * METHOD: Modern analog technique (MAT), SIMMAX28 (URI: https://doi.org/10.1029/95PA01743)
+	Comment (Comment) * PI: Pflaumann, Uwe (up@gpi.uni-kiel.de)
+	Number of observations [#] (NOBS) * PI: Pflaumann, Uwe (up@gpi.uni-kiel.de)
+	Sample code/label (Sample label) * PI: Pflaumann, Uwe (up@gpi.uni-kiel.de)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	1526 data points
+*/
+Campaign	Event	Latitude	Longitude	Date/Time	Elevation [m]	Depth [m]	Age model [ka]	SST (1-3) [°C]	SST (7-9) [°C]	Similarity	Comment	NOBS [#]	Sample label
+A150/180	A180-73	0.1667	-23.0000		-3749	0.29	18	21.7	17.7	0.84	CLIMAP	1	S
+A150/180	A180-73	0.1667	-23.0000		-3749	0.42	21	21.7	17.7	0.84	CLIMAP	1	S
+D184	BOFS14K	58.6288	-19.4349	1989-08-03	-1756	0.77	18	1.1	4.8	1.00	Mark Maslin	9	N
+D184	BOFS14K	58.6288	-19.4349	1989-08-03	-1756	0.95	21	1.1	4.8	1.00	Mark Maslin	9	N
+D184	BOFS17K	58.0010	-16.5014	1989-08-10	-1150	0.78	18	0.6	4.2	1.00	Mark Maslin	11	N
+D184	BOFS17K	58.0010	-16.5014	1989-08-10	-1150	0.98	21	0.6	4.2	1.00	Mark Maslin	11	N
+D184	BOFS5K	50.6876	-21.8635	1989-07-26	-3547	0.34	18	0.5	4.1	1.00	Mark Maslin	4	N
+D184	BOFS5K	50.6876	-21.8635	1989-07-26	-3547	0.40	21	0.5	4.1	1.00	Mark Maslin	4	N
+D184	BOFS8K	52.5033	-22.0623	1989-07-30	-4045	0.68	18	0.4	3.8	1.00	Mark Maslin	5	N
+D184	BOFS8K	52.5033	-22.0623	1989-07-30	-4045	0.76	21	0.4	3.8	1.00	Mark Maslin	5	N
+CH8X	CH82-24	43.4650	-30.6600		-3070	0.57	18	9.0	13.4	0.83	CLIMAP	2	N
+CH8X	CH82-24	43.4650	-30.6600		-3070	0.65	21	9.0	13.4	0.83	CLIMAP	2	N
+M25	GIK12309-2	26.8383	-15.1100	1971-10-31	-2820	1.49	18	16.6	20.2	0.95	Uwe Pflaumann, Jörn Thiede	3	N
+M25	GIK12309-2	26.8383	-15.1100	1971-10-31	-2820	1.81	21	16.6	20.2	0.95	Uwe Pflaumann, Jörn Thiede	3	N
+M25	GIK12310-4	23.4983	-18.7167	1971-11-02	-3080	0.78	18	17.2	20.7	0.96	Jörn Thiede	1	N
+M25	GIK12310-4	23.4983	-18.7167	1971-11-02	-3080	1.10	21	17.2	20.7	0.96	Jörn Thiede	1	N
+M25	GIK12328-5	21.1450	-18.5733	1971-11-08	-2778	1.65	18	18.7	22.4	0.95	Jörn Thiede	4	N
+M25	GIK12328-5	21.1450	-18.5733	1971-11-08	-2778	2.03	21	18.7	22.4	0.95	Jörn Thiede	4	N
+M25	GIK12329-6	19.3667	-19.9300	1971-11-09	-3320	0.41	18	18.1	22.4	0.96	Uwe Pflaumann	2	N
+M25	GIK12329-6	19.3667	-19.9300	1971-11-09	-3320	0.50	21	18.1	22.4	0.96	Uwe Pflaumann	2	N
+M25	GIK12337-5	15.9533	-18.1333	1971-11-14	-3082	1.46	18	17.1	20.8	0.98	Uwe Pflaumann	1	N
+M25	GIK12337-5	15.9533	-18.1333	1971-11-14	-3082	1.60	21	17.1	20.8	0.98	Uwe Pflaumann	1	N
+M25	GIK12345-5	15.4800	-17.3600	1971-11-17	-945	4.13	18	18.3	23.6	0.94	Uwe Pflaumann	6	N
+M25	GIK12345-5	15.4800	-17.3600	1971-11-17	-945	4.75	21	18.3	23.6	0.94	Uwe Pflaumann	6	N
+M25	GIK12347-2	15.8250	-17.8617	1971-11-17	-2576	2.89	18	12.4	17.6	0.95	Uwe Pflaumann	3	N
+M25	GIK12347-2	15.8250	-17.8617	1971-11-17	-2576	3.18	21	12.4	17.6	0.95	Uwe Pflaumann	3	N
+M25	GIK12379-1	23.1350	-17.7450	1971-11-30	-2066	1.12	18	18.8	22.1	0.97	Jörn Thiede	3	N
+M25	GIK12379-1	23.1350	-17.7450	1971-11-30	-2066	1.35	21	18.8	22.1	0.97	Jörn Thiede	3	N
+M25	GIK12392-1	25.1717	-16.8450	1971-12-03	-2575	1.01	18	16.1	20.0	0.96	Jörn Thiede	5	N
+M25	GIK12392-1	25.1717	-16.8450	1971-12-03	-2575	1.44	21	16.1	20.0	0.96	Jörn Thiede	5	N
+VA-10/3	GIK13289-3	18.0732	-18.0092	1975-08-06	-2490	1.00	18	18.8	23.7	0.97	Uwe Pflaumann	3	N
+VA-10/3	GIK13289-3	18.0732	-18.0092	1975-08-06	-2490	1.20	21	18.8	23.7	0.97	Uwe Pflaumann	3	N
+VA-10/3	GIK13291-1	18.1175	-18.0750	1975-08-06	-2696	1.00	18	18.6	23.2	0.97	Uwe Pflaumann	8	N
+VA-10/3	GIK13291-1	18.1175	-18.0750	1975-08-06	-2696	1.60	21	18.6	23.2	0.97	Uwe Pflaumann	8	N
+M51	GIK13519-1	5.6700	-19.8517	1979-03-01	-2862	0.25	18	27.0	23.6	0.96	Uwe Pflaumann	2	S
+M51	GIK13519-1	5.6700	-19.8517	1979-03-01	-2862	0.33	21	27.0	23.6	0.96	Uwe Pflaumann	2	S
+M39	GIK13521-1	3.0200	-22.0317	1975-01-01	-4504	0.34	18	23.5	20.2	0.87	Uwe Pflaumann	3	S
+M39	GIK13521-1	3.0200	-22.0317	1975-01-01	-4504	0.42	21	23.5	20.2	0.87	Uwe Pflaumann	3	S
+M57	GIK15612-2	44.3600	-26.5433	1981-08-20	-3050	0.50	18	3.9	8.0	0.98	Thorsten Kiefer	5	N
+M57	GIK15612-2	44.3600	-26.5433	1981-08-20	-3050	0.67	21	3.9	8.0	0.98	Thorsten Kiefer	5	N
+M53	GIK15627-3	29.1667	-12.0867	1980-03-07	-1024	0.17	18	17.0	21.0	0.96	Uwe Pflaumann	4	N
+M53	GIK15627-3	29.1667	-12.0867	1980-03-07	-1024	0.31	21	17.0	21.0	0.96	Uwe Pflaumann	4	N
+M53	GIK15637-1	27.0050	-18.9867	1980-03-10	-3849	0.50	18	16.1	20.2	0.93	Uwe Pflaumann, Thorsten Kiefer	5	N
+M53	GIK15637-1	27.0050	-18.9867	1980-03-10	-3849	0.56	21	16.1	20.2	0.93	Uwe Pflaumann, Thorsten Kiefer	5	N
+M53	GIK15669-1	34.8917	-7.8150	1980-03-21	-2022	0.65	18	13.5	18.5	0.94	Uwe Pflaumann	5	N
+M53	GIK15669-1	34.8917	-7.8150	1980-03-21	-2022	0.85	21	13.5	18.5	0.94	Uwe Pflaumann	5	N
+M60	GIK16017-2	21.2450	-17.8033	1982-01-22	-812	2.35	18	18.8	22.7	0.97	Uwe Pflaumann	6	N
+M60	GIK16017-2	21.2450	-17.8033	1982-01-22	-812	2.65	21	18.8	22.7	0.97	Uwe Pflaumann	6	N
+POS158/2	GIK16396-1	61.8722	-11.2423	1989-04-20	-1145	1.98	18	0.5	4.0	1.00	Mara Weinelt	1	N
+POS158/2	GIK16396-1	61.8722	-11.2423	1989-04-20	-1145	3.10	21	0.5	4.0	1.00	Mara Weinelt	1	N
+M65	GIK16415-2	9.5667	-19.0950	1983-07-25	-3845	0.36	18	20.4	24.9	0.84	Uwe Pflaumann	1	N
+M65	GIK16415-2	9.5667	-19.0950	1983-07-25	-3845	0.42	21	20.4	24.9	0.84	Uwe Pflaumann	1	N
+ANT-IV/1c	GIK16457-2	5.3850	-21.7517	1985-10-22	-3303	0.23	18	27.4	25.8	0.91	Uwe Pflaumann	1	S
+ANT-IV/1c	GIK16457-2	5.3850	-21.7517	1985-10-22	-3303	0.30	21	27.4	25.8	0.91	Uwe Pflaumann	1	S
+ANT-IV/1c	GIK16458-1	5.3350	-22.0533	1985-10-22	-3518	0.22	18	27.4	26.5	0.97	Uwe Pflaumann	7	S
+ANT-IV/1c	GIK16458-1	5.3350	-22.0533	1985-10-22	-3518	0.31	21	27.4	26.5	0.97	Uwe Pflaumann	7	S
+ANT-IV/1c	GIK16458-2	5.3350	-22.0550	1985-10-22	-3518	0.24	18	27.4	26.5	0.97	Uwe Pflaumann	7	S
+ANT-IV/1c	GIK16458-2	5.3350	-22.0550	1985-10-22	-3518	0.31	21	27.4	26.5	0.97	Uwe Pflaumann	7	S
+M6/5	GIK16772-2	-1.3500	-11.9617	1988-01-21	-3912	0.20	18	23.9	19.1	0.87	Gisela Kähler	2	S
+M6/5	GIK16772-2	-1.3500	-11.9617	1988-01-21	-3912	0.36	21	23.9	19.1	0.87	Gisela Kähler	2	S
+M6/5	GIK16776-1	3.7350	-11.3983	1988-01-25	-4242	0.40	18	26.4	22.4	0.84	Matthias Hüls	2	S
+M6/5	GIK16776-1	3.7350	-11.3983	1988-01-25	-4242	0.50	21	26.4	22.4	0.84	Matthias Hüls	2	S
+M6/5	GIK16867-2	-2.2017	5.1017	1988-02-10	-3891	0.50	18	22.7	18.0	0.87	Uwe Pflaumann	1	S
+M6/5	GIK16867-2	-2.2017	5.1017	1988-02-10	-3891	0.62	21	22.7	18.0	0.87	Uwe Pflaumann	1	S
+M11/1	GIK17045-3	52.4250	-16.6650	1989-10-07	-3663	0.80	18	1.3	5.0	1.00	Hartmut Schulz	3	N
+M11/1	GIK17045-3	52.4250	-16.6650	1989-10-07	-3663	1.04	21	1.3	5.0	1.00	Hartmut Schulz	3	N
+M11/1	GIK17049-6	55.2600	-26.7250	1989-10-11	-3331	1.50	18	0.6	4.1	1.00	Hartmut Schulz	3	N
+M11/1	GIK17049-6	55.2600	-26.7250	1989-10-11	-3331	1.93	21	0.6	4.1	1.00	Hartmut Schulz	3	N
+M11/1	GIK17050-1	55.4700	-27.8883	1989-10-12	-2795	3.70	18	1.6	5.3	1.00	Uwe Pflaumann	3	N
+M11/1	GIK17050-1	55.4700	-27.8883	1989-10-12	-2795	3.95	21	1.6	5.3	1.00	Uwe Pflaumann	3	N
+M11/1	GIK17051-3	56.1633	-31.9900	1989-10-13	-2295	2.00	18	0.6	4.2	1.00	Hartmut Schulz	2	N
+M11/1	GIK17051-3	56.1633	-31.9900	1989-10-13	-2295	2.10	21	0.6	4.2	1.00	Hartmut Schulz	2	N
+M11/1	GIK17055-1	48.2150	-27.0567	1989-10-17	-2558	0.70	18	0.4	3.6	1.00	Uwe Pflaumann	1	N
+M11/1	GIK17055-1	48.2150	-27.0567	1989-10-17	-2558	0.77	21	0.4	3.6	1.00	Uwe Pflaumann	1	N
+M13/2	GIK17724-2	76.0000	8.3333	1990-08-07	-2354	0.45	18	-0.5	2.7	1.00	Thorsten Kiefer	2	N
+M13/2	GIK17724-2	76.0000	8.3333	1990-08-07	-2354	0.60	21	-0.5	2.7	1.00	Thorsten Kiefer	2	N
+M13/2	GIK17725-1	77.4600	4.5800	1990-08-08	-2577	0.25	18	-0.1	3.1	1.00	Hartmut Schulz	1	N
+M13/2	GIK17725-1	77.4600	4.5800	1990-08-08	-2577	0.25	21	-0.1	3.1	1.00	Hartmut Schulz	1	N
+M13/2	GIK17730-4	72.1117	7.3883	1990-08-11	-2749	1.32	18	0.0	3.1	1.00	Hartmut Schulz	3	N
+M13/2	GIK17730-4	72.1117	7.3883	1990-08-11	-2749	1.45	21	0.0	3.1	1.00	Hartmut Schulz	3	N
+M2/2	GIK23056-2	68.5017	3.8383	1986-07-05	-2665	0.27	18	0.6	3.9	1.00	Hartmut Schulz	2	N
+M2/2	GIK23056-2	68.5017	3.8383	1986-07-05	-2665	0.35	21	0.6	3.9	1.00	Hartmut Schulz	2	N
+M2/2	GIK23065-2	68.4950	0.8317	1986-07-09	-2804	0.29	18	0.4	3.8	1.00	Uwe Pflaumann	3	N
+M2/2	GIK23065-2	68.4950	0.8317	1986-07-09	-2804	0.34	21	0.4	3.8	1.00	Uwe Pflaumann	3	N
+M2/2	GIK23071-3	67.0850	2.9083	1986-07-12	-1308	1.02	18	0.1	3.4	1.00	Elke Vogelsang	5	N
+M2/2	GIK23071-3	67.0850	2.9083	1986-07-12	-1308	1.27	21	0.1	3.4	1.00	Elke Vogelsang	5	N
+M2/2	GIK23074-1	66.6667	4.9050	1986-07-13	-1157	1.44	18	0.1	3.5	1.00	Mara Weinelt, Derek D	13	N
+M2/2	GIK23074-1	66.6667	4.9050	1986-07-13	-1157	3.94	21	0.1	3.5	1.00	Mara Weinelt, Derek D	13	N
+M7/2	GIK23262-2	72.2252	14.4273	1988-07-22	-1130	2.00	18	0.3	3.6	1.00	Mara Weinelt	2	N
+M7/2	GIK23262-2	72.2252	14.4273	1988-07-22	-1130	2.60	21	0.3	3.6	1.00	Mara Weinelt	2	N
+M7/3	GIK23294-4	72.3797	-10.5923	1988-08-05	-2215	1.10	18	-0.1	3.2	1.00	Mara Weinelt	2	N
+M7/3	GIK23294-4	72.3797	-10.5923	1988-08-05	-2215	1.20	21	-0.1	3.2	1.00	Mara Weinelt	2	N
+M7/5	GIK23351-1	70.3622	-18.2053	1988-09-16	-1672	0.60	18	0.0	3.4	1.00	Elke Vogelsang	1	N
+M7/5	GIK23351-1	70.3622	-18.2053	1988-09-16	-1672	0.60	21	0.0	3.4	1.00	Elke Vogelsang	1	N
+M7/5	GIK23354-6	70.3315	-10.6288	1988-09-18	-1747	0.80	18	0.0	3.5	1.00	Elke Vogelsang	1	N
+M7/5	GIK23354-6	70.3315	-10.6288	1988-09-18	-1747	0.80	21	0.0	3.5	1.00	Elke Vogelsang	1	N
+M17/2	GIK23419-8	54.9617	-19.7550	1991-08-28	-1487	0.40	18	1.0	4.7	1.00	Hartmut Schulz	1	N
+M17/2	GIK23419-8	54.9617	-19.7550	1991-08-28	-1487	0.42	21	1.0	4.7	1.00	Hartmut Schulz	1	N
+POS210/2	GIK23519-5	64.7973	-29.5958	1995-08-18	-1893	0.58	18	0.1	3.3	1.00	Uwe Pflaumann	3	N
+POS210/2	GIK23519-5	64.7973	-29.5958	1995-08-18	-1893	0.98	21	0.1	3.3	1.00	Uwe Pflaumann	3	N
+	HU87-033-008	62.6485	-53.8845		-2424	1.50	18	-0.1	3.0	1.00	Uwe Pflaumann	4	N
+	HU87-033-008	62.6485	-53.8845		-2424	3.03	21	-0.1	3.0	1.00	Uwe Pflaumann	4	N
+HUD90/13	HU90-013-013	58.2098	-48.3733		-3380	1.64	18	0.3	3.6	1.00	Josette Duprat	1	N
+HUD90/13	HU90-013-013	58.2098	-48.3733		-3380	5.00	21	0.3	3.6	1.00	Josette Duprat	1	N
+	HU91-045-090	50.3898	-45.2600		-3448	2.90	18	0.6	4.0	1.00	Josette Duprat	4	N
+	HU91-045-090	50.3898	-45.2600		-3448	3.40	21	0.6	4.0	1.00	Josette Duprat	4	N
+GEOFAR	KF09	37.1113	-32.2868	1993-08-01	-2655	2.20	18	15.7	21.2	0.91	Uwe Pflaumann	4	N
+GEOFAR	KF09	37.1113	-32.2868	1993-08-01	-2655	3.20	21	15.7	21.2	0.91	Uwe Pflaumann	4	N
+GEOFAR	KF13	37.5783	-31.8422	1993-08-01	-2690	1.50	18	14.1	19.6	0.90	Uwe Pflaumann	3	N
+GEOFAR	KF13	37.5783	-31.8422	1993-08-01	-2690	2.00	21	14.1	19.6	0.90	Uwe Pflaumann	3	N
+GEOFAR	KF16	37.9990	-31.1283	1993-08-01	-3050	5.50	18	12.8	18.4	0.95	Uwe Pflaumann	1	N
+GEOFAR	KF16	37.9990	-31.1283	1993-08-01	-3050	6.40	21	12.8	18.4	0.95	Uwe Pflaumann	1	N
+	KN708-1	50.0000	-23.7500		-4053	1.00	18	0.1	3.3	1.00	Ruddiman, Hartmut Schulz	1	N
+	KN708-1	50.0000	-23.7500		-4053	1.00	21	0.1	3.3	1.00	Ruddiman, Hartmut Schulz	1	N
+M35/1	M35003-4	12.0900	-61.2433	1996-04-19	-1299	3.00	18	25.0	27.2	0.92	Matthias Hüls	7	N
+M35/1	M35003-4	12.0900	-61.2433	1996-04-19	-1299	3.40	21	25.0	27.2	0.92	Matthias Hüls	7	N
+M35/1	M35027-1	17.6483	-67.1667	1996-05-04	-1814	0.47	18	23.7	26.5	0.94	Matthias Hüls	5	N
+M35/1	M35027-1	17.6483	-67.1667	1996-05-04	-1814	0.57	21	23.7	26.5	0.94	Matthias Hüls	5	N
+	NA87-22	55.5000	-14.5833		-2161	3.70	18	0.5	4.1	1.00	Josette Duprat	6	N
+	NA87-22	55.5000	-14.5833		-2161	4.20	21	0.5	4.1	1.00	Josette Duprat	6	N
+ODEN-96	OD-041-04	84.0292	11.2383	1996-09-17	-3344	0.13	18	-0.7	1.3	1.00	Uwe Pflaumann	3	N
+ODEN-96	OD-041-04	84.0292	11.2383	1996-09-17	-3344	0.17	21	-0.7	1.3	1.00	Uwe Pflaumann	3	N
+POS175/2	POS175/2_1171	67.9593	-18.6117	1990-01-01	-935	0.22	18	0.2	3.5	1.00	Mara Weinelt	1	N
+POS175/2	POS175/2_1171	67.9593	-18.6117	1990-01-01	-935	0.50	21	0.2	3.5	1.00	Mara Weinelt	1	N
+ARK-II/4	PS1230-1	78.8553	-4.7812	1984-08-16	-1249	0.20	18	-0.5	0.9	1.00	Uwe Pflaumann	3	N
+ARK-II/4	PS1230-1	78.8553	-4.7812	1984-08-16	-1249	0.28	21	-0.5	0.9	1.00	Uwe Pflaumann	3	N
+ARK-IV/3	PS1533-3	82.0317	15.1908	1987-08-16	-2026	0.62	18	-0.4	2.2	1.00	Uwe Pflaumann	3	N
+ARK-IV/3	PS1533-3	82.0317	15.1908	1987-08-16	-2026	0.92	21	-0.4	2.2	1.00	Uwe Pflaumann	3	N
+ARK-V/3b	PS1730-2	70.1165	-17.6943	1988-08-18	-1622	0.80	18	0.1	3.2	1.00	Uwe Pflaumann	3	N
+ARK-V/3b	PS1730-2	70.1165	-17.6943	1988-08-18	-1622	1.00	21	0.1	3.2	1.00	Uwe Pflaumann	3	N
+ARK-VII/3b	PS1919-2	74.9967	-11.8267	1990-09-01	-1955	0.13	18	-0.3	2.8	1.00	Uwe Pflaumann	2	N
+ARK-VII/3b	PS1919-2	74.9967	-11.8267	1990-09-01	-1955	0.36	21	-0.3	2.8	1.00	Uwe Pflaumann	2	N
+ARK-VII/3b	PS1922-1	75.0003	-8.7710	1990-09-02	-3350	1.17	18	-0.4	2.4	1.00	Uwe Pflaumann	5	N
+ARK-VII/3b	PS1922-1	75.0003	-8.7710	1990-09-02	-3350	2.00	21	-0.4	2.4	1.00	Uwe Pflaumann	5	N
+ARK-VII/3b	PS1927-2	71.4967	-17.1483	1990-09-03	-1706	0.65	18	0.0	3.2	1.00	Uwe Pflaumann	4	N
+ARK-VII/3b	PS1927-2	71.4967	-17.1483	1990-09-03	-1706	1.05	21	0.0	3.2	1.00	Uwe Pflaumann	4	N
+ARK-VII/3b	PS1951-1	68.8417	-20.8250	1990-09-27	-1459	0.67	18	0.2	3.5	1.00	Uwe Pflaumann	4	N
+ARK-VII/3b	PS1951-1	68.8417	-20.8250	1990-09-27	-1459	1.17	21	0.2	3.5	1.00	Uwe Pflaumann	4	N
+ARK-VIII/2	PS2129-1	81.3667	17.4717	1991-07-11	-861	0.20	18	-0.6	1.7	1.00	Elke Vogelsang	3	N
+ARK-VIII/2	PS2129-1	81.3667	17.4717	1991-07-11	-861	0.40	21	-0.6	1.7	1.00	Elke Vogelsang	3	N
+ARK-VIII/2	PS2138-1	81.5350	30.5933	1991-07-18	-862	1.30	18	-0.6	1.7	1.00	Uwe Pflaumann	5	N
+ARK-VIII/2	PS2138-1	81.5350	30.5933	1991-07-18	-862	2.15	21	-0.6	1.7	1.00	Uwe Pflaumann	5	N
+ARK-IX/4	PS2446-4	82.3967	40.9083	1993-08-19	-2022	1.80	18	-0.6	1.6	1.00	Elke Vogelsang	4	N
+ARK-IX/4	PS2446-4	82.3967	40.9083	1993-08-19	-2022	3.55	21	-0.6	1.6	1.00	Elke Vogelsang	4	N
+ARK-X/2	PS2613-6	74.1767	-0.4800	1994-08-19	-3266	0.30	18	-0.1	3.3	1.00	Elke Vogelsang	3	N
+ARK-X/2	PS2613-6	74.1767	-0.4800	1994-08-19	-3266	0.40	21	-0.1	3.3	1.00	Elke Vogelsang	3	N
+ARK-X/2	PS2644-5	67.8667	-21.7650	1994-09-19	-777	0.99	18	0.1	3.4	1.00	Elke Vogelsang	4	N
+ARK-X/2	PS2644-5	67.8667	-21.7650	1994-09-19	-777	1.18	21	0.1	3.4	1.00	Elke Vogelsang	4	N
+ARK-XIII/2	PS2837-5	81.2333	2.3817	1997-07-12	-1023	3.89	18	-0.6	1.2	1.00	Uwe Pflaumann, Elke Vogelsang	3	N
+ARK-XIII/2	PS2837-5	81.2333	2.3817	1997-07-12	-1023	3.97	21	-0.6	1.2	1.00	Uwe Pflaumann, Elke Vogelsang	3	N
+ARK-XIII/3	PS2876-1	81.7590	-9.4355	1997-08-24	-1976	0.10	18	-0.5	2.2	1.00	Elke Vogelsang	5	N
+ARK-XIII/3	PS2876-1	81.7590	-9.4355	1997-08-24	-1976	0.62	21	-0.5	2.2	1.00	Elke Vogelsang	5	N
+ARK-XIII/3	PS2887-1	79.6000	-4.6077	1997-09-03	-1411	0.45	18	-0.6	1.9	1.00	Elke Vogelsang	3	N
+ARK-XIII/3	PS2887-1	79.6000	-4.6077	1997-09-03	-1411	0.55	21	-0.6	1.9	1.00	Elke Vogelsang	3	N
+RC11	RC11-86	-35.7800	18.4500	1967-03-02	-2829	0.34	18	17.6	11.1	0.99	CLIMAP	2	S
+RC11	RC11-86	-35.7800	18.4500	1967-03-02	-2829	0.57	21	17.6	11.1	0.99	CLIMAP	2	S
+RC12	RC12-267	-38.6800	-25.7800	1969-01-15	-4144	0.58	18	17.7	13.7	0.95	Uwe Pflaumann	2	S
+RC12	RC12-267	-38.6800	-25.7800	1969-01-15	-4144	0.76	21	17.7	13.7	0.95	Uwe Pflaumann	2	S
+RC12	RC12-294	-37.2700	-10.1000	1969-02-18	-3308	0.34	18	17.0	12.4	0.97	Uwe Pflaumann, CLIMAP	7	S
+RC12	RC12-294	-37.2700	-10.1000	1969-02-18	-3308	0.54	21	17.0	12.4	0.97	Uwe Pflaumann, CLIMAP	7	S
+RC13	RC13-153	15.0650	-75.9500	1970-07-06	-3334	0.54	18	23.8	26.5	0.97	Uwe Pflaumann	2	N
+RC13	RC13-153	15.0650	-75.9500	1970-07-06	-3334	0.62	21	23.8	26.5	0.97	Uwe Pflaumann	2	N
+RC13	RC13-228	-22.3300	11.1980	1970-10-08	-3204	1.07	18	15.0	10.1	0.97	SPECMAP	5	S
+RC13	RC13-228	-22.3300	11.1980	1970-10-08	-3204	1.30	21	15.0	10.1	0.97	SPECMAP	5	S
+RC13	RC13-229	-25.4900	11.3070	1970-10-10	-4191	0.45	18	17.3	11.4	0.98	Uwe Pflaumann	5	S
+RC13	RC13-229	-25.4900	11.3070	1970-10-10	-4191	0.69	21	17.3	11.4	0.98	Uwe Pflaumann	5	S
+RC24	RC24-16	-5.0380	-10.1900	1983-03-26	-3543	0.63	18	22.4	17.7	0.91	SPECMAP	3	S
+RC24	RC24-16	-5.0380	-10.1900	1983-03-26	-3543	0.69	21	22.4	17.7	0.91	SPECMAP	3	S
+SO82	SO82_5-2	59.1862	-30.9048	1992-10-21	-1416	0.95	18	0.5	4.0	1.00	Uwe Pflaumann, Shirle van Kreveld	6	N
+SO82	SO82_5-2	59.1862	-30.9048	1992-10-21	-1416	1.20	21	0.5	4.0	1.00	Uwe Pflaumann, Shirle van Kreveld	6	N
+CEPAG	SU81-18	37.7670	-10.1830	1981-01-01	-3155	3.40	18	11.9	16.9	0.97	Josette Duprat	11	N
+CEPAG	SU81-18	37.7670	-10.1830	1981-01-01	-3155	4.40	21	11.9	16.9	0.97	Josette Duprat	11	N
+PALEOCINAT	SU90-39	52.5667	-21.9400	1990-01-01	-3955	0.71	18	0.7	4.3	1.00	Josette Duprat	2	N
+PALEOCINAT	SU90-39	52.5667	-21.9400	1990-01-01	-3955	0.90	21	0.7	4.3	1.00	Josette Duprat	2	N
+PALEOCINAT	SU90-I06	59.5217	-39.4450	1990-01-01	-1315	0.19	18	0.4	3.9	1.00	Hartmut Schulz	3	N
+PALEOCINAT	SU90-I06	59.5217	-39.4450	1990-01-01	-1315	0.23	21	0.4	3.9	1.00	Hartmut Schulz	3	N
+SU92	SU92-21	36.5117	-23.7367		-4170	0.75	18	15.0	20.2	0.97	Hartmut Schulz	3	N
+SU92	SU92-21	36.5117	-23.7367		-4170	0.95	21	15.0	20.2	0.97	Hartmut Schulz	3	N
+V16	V16-20	17.9330	-50.3500	1959-11-08	-4539	0.34	18	24.2	26.8	0.99	Uwe Pflaumann	5	N
+V16	V16-20	17.9330	-50.3500	1959-11-08	-4539	0.50	21	24.2	26.8	0.99	Uwe Pflaumann	5	N
+V16	V16-205	15.4000	-43.4000	1960-07-18	-4043	0.19	18	25.0	27.0	0.97	CLIMAP	1	N
+V16	V16-205	15.4000	-43.4000	1960-07-18	-4043	0.20	21	25.0	27.0	0.97	CLIMAP	1	N
+V17	V17-165	32.7500	-41.9000	1961-07-29	-3924	0.29	18	17.9	22.8	0.95	Uwe Pflaumann	4	N
+V17	V17-165	32.7500	-41.9000	1961-07-29	-3924	0.59	21	17.9	22.8	0.95	Uwe Pflaumann	4	N
+V18	V18-357	15.0330	-80.2300	1962-10-30	-1818	0.50	18	24.4	26.8	0.97	Uwe Pflaumann	6	N
+V18	V18-357	15.0330	-80.2300	1962-10-30	-1818	0.80	21	24.4	26.8	0.97	Uwe Pflaumann	6	N
+V22	V22-174	-10.0700	-12.8200	1966-05-13	-2630	0.54	18	24.5	20.8	0.88	SPECMAP, Uwe Pflauman	6	S
+V22	V22-174	-10.0700	-12.8200	1966-05-13	-2630	0.67	21	24.5	20.8	0.88	SPECMAP, Uwe Pflauman	6	S
+V22	V22-197	14.1670	-18.5800	1966-05-22	-3167	1.11	18	12.0	18.1	0.97	Uwe Pflaumann	5	N
+V22	V22-197	14.1670	-18.5800	1966-05-22	-3167	1.31	21	12.0	18.1	0.97	Uwe Pflaumann	5	N
+V23	V23-100	21.3000	-22.6800	1966-11-09	-4579	2.35	18	19.4	22.7	0.32	Climap	7	N
+V23	V23-100	21.3000	-22.6800	1966-11-09	-4579	2.95	21	19.4	22.7	0.32	Climap	7	N
+V23	V23-81	54.2500	-16.8300	1966-10-18	-2393	0.35	18	1.0	4.6	1.00	CLIMAP	2	N
+V23	V23-81	54.2500	-16.8300	1966-10-18	-2393	0.45	21	1.0	4.6	1.00	CLIMAP	2	N
+V25	V25-56	-3.5500	-35.2300	1968-02-24	-3512	0.59	18	27.2	26.0	0.94	CLIMAP	3	S
+V25	V25-56	-3.5500	-35.2300	1968-02-24	-3512	0.45	18	27.1	24.2	0.71	SPECMAP	6	S
+V25	V25-56	-3.5500	-35.2300	1968-02-24	-3512	0.83	21	27.2	26.0	0.94	CLIMAP	3	S
+V25	V25-56	-3.5500	-35.2300	1968-02-24	-3512	0.59	21	27.1	24.2	0.71	SPECMAP	6	S
+V25	V25-59	1.3670	-33.4800	1968-02-26	-3824	0.59	18	27.6	24.4	0.87	CLIMAP	5	S
+V25	V25-59	1.3670	-33.4800	1968-02-26	-3824	0.63	21	27.6	24.4	0.87	CLIMAP	5	S
+V26	V26-124	16.1330	-74.4500	1969-03-13	-3005	0.58	18	24.2	26.7	0.97	Uwe Pflaumann	3	N
+V26	V26-124	16.1330	-74.4500	1969-03-13	-3005	0.78	21	24.2	26.7	0.97	Uwe Pflaumann	3	N
+V27	V27-60	72.1830	8.5830	1969-08-05	-2525	1.88	18	-0.1	3.1	1.00	T.B. Kellogg	5	N
+V27	V27-60	72.1830	8.5830	1969-08-05	-2525	2.32	21	-0.1	3.1	1.00	T.B. Kellogg	5	N
+V27	V27-86	66.6000	1.1170	1969-09-05	-2900	0.60	18	0.1	3.3	1.00	CLIMAP	2	N
+V27	V27-86	66.6000	1.1170	1969-09-05	-2900	0.70	21	0.1	3.3	1.00	CLIMAP	2	N
+V28	V28-127	11.6500	-80.1300	1971-01-05	-3237	0.59	18	23.5	26.4	0.96	CLIMAP	1	N
+V28	V28-127	11.6500	-80.1300	1971-01-05	-3237	0.66	21	23.5	26.4	0.96	CLIMAP	1	N
+V28	V28-14	64.7830	-29.5700	1970-07-19	-1855	1.49	18	0.3	3.9	1.00	T.B. Kellogg	3	N
+V28	V28-14	64.7830	-29.5700	1970-07-19	-1855	1.70	21	0.3	3.9	1.00	T.B. Kellogg	3	N
+V28	V28-56	68.0330	-6.1170	1970-09-13	-2941	0.55	18	0.2	3.7	1.00	T.B. Kellogg	3	N
+V28	V28-56	68.0330	-6.1170	1970-09-13	-2941	0.80	21	0.2	3.7	1.00	T.B. Kellogg	3	N
+V29	V29-179	44.0170	-24.5300	1972-07-23	-3331	0.72	18	5.8	9.7	0.95	Uwe Pflaumann	1	N
+V29	V29-179	44.0170	-24.5300	1972-07-23	-3331	0.96	21	5.8	9.7	0.95	Uwe Pflaumann	1	N
+V30	V30-40	-0.2000	-23.1500	1973-02-15	-3706	0.44	18	23.7	19.6	0.83	CLIMAP	5	S
+V30	V30-40	-0.2000	-23.1500	1973-02-15	-3706	0.58	21	23.7	19.6	0.83	CLIMAP	5	S
+V30	V30-49	18.4330	-21.0800	1973-03-05	-3093	0.60	18	18.1	22.3	0.95	SPECMAP	4	N
+V30	V30-49	18.4330	-21.0800	1973-03-05	-3093	0.72	21	18.1	22.3	0.95	SPECMAP	4	N
